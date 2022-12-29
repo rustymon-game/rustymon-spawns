@@ -1,3 +1,10 @@
+pub struct Time {
+    pub daytime: Option<Daytime>,
+    pub day: Option<Day>,
+    pub date: Option<Date>,
+    pub moon_phase: Option<MoonPhase>,
+}
+
 pub enum Daytime {
     Sunrise,
     Morning,
