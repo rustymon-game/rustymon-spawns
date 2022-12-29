@@ -1,0 +1,2 @@
+taginfo==0.0.3
+tocase==1.0.0
